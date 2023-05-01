@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "team": "Boston Celtics",
+    "state": "Massachusetts",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
+    "championshipRings": "15"
+  },
+  {
+    "id": 2,
+    "team": "New York Knicks",
+    "state": "New York",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/800px-New_York_Knicks_logo.svg.png",
+    "championshipRings": "2"
+  },
+  {
+    "id": 3,
+    "team": "Golden State Warriors",
+    "state": "California",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png",
+    "championshipRings": "6"
+  },
+  {
+    "id": 4,
+    "team": "Miami Heat",
+    "state": "Florida",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
+    "championshipRings": "3"
+  }
+]
